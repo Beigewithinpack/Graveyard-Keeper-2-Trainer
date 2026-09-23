@@ -11,8 +11,6 @@ Free, open source, no installer. Opens with `Insert`.
 ![Options](https://img.shields.io/badge/options-55%2B-6a6a6a?style=flat-square)
 ![Licence](https://img.shields.io/badge/licence-MIT-d9c47a?style=flat-square)
 
-**[⬇ Download the latest release](https://github.com/Beigewithinpack/Graveyard-Keeper-2-Trainer/releases/latest)** · [Hotkeys](#hotkeys) · [FAQ](#faq)
-
 > **[⬇️ Download the latest Graveyard Keeper 2 trainer](https://github.com/Beigewithinpack/Graveyard-Keeper-2-Trainer/releases/latest)**
 <p align="center">
     <a href="https://github.com/Beigewithinpack/Graveyard-Keeper-2-Trainer/releases/latest/download/GK2Trainer.zip">
